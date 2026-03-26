@@ -1,6 +1,4 @@
-# Zemzeme — User Manual
 
-**Version 1.1.2**
 
 ---
 
@@ -25,7 +23,7 @@
 
 ## 1. Overview
 
-Zemzeme is a decentralized, privacy-focused peer-to-peer messaging application. It works without relying on any central server and supports three distinct communication modes:
+ is a decentralized, privacy-focused peer-to-peer messaging application. It works without relying on any central server and supports three distinct communication modes:
 
 - **Offline Bluetooth Mesh** — Talk to nearby people with no internet at all.
 - **Location Channels** — Connect with people in your geographic area over the internet.
@@ -48,7 +46,7 @@ All private messages are end-to-end encrypted using the Noise protocol with Curv
 
 ### First Launch & Onboarding
 
-When you open Zemzeme for the first time, the app will guide you through a short setup:
+When you open TEHb for the first time, the app will guide you through a short setup:
 
 1. **Bluetooth Check** — The app verifies your device supports Bluetooth Low Energy. If Bluetooth is off, you will be prompted to enable it.
 2. **Location Permission** — Android requires location permission for BLE scanning. Grant precise location access when prompted.
